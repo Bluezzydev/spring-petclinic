@@ -15,3 +15,4 @@ jobs:
         uses: Bluezzydev/pipeline-template/test@main
         with: 
           user_name: 'GitHub Actions'
+          age: '5'
