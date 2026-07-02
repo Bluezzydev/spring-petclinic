@@ -12,6 +12,6 @@ jobs:
     name: Example job
     steps:
       - name: hello world
-        uses: Bluezzydev/pipeline-template@main
+        uses: Bluezzydev/pipeline-template/test@main
         with: 
           user_name: 'GitHub Actions'
